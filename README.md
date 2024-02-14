@@ -67,6 +67,11 @@ The [variance][variance] for an [arcsine][arcsine-distribution] random variable 
 ## Usage
 
 ```javascript
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-variance@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-arcsine-variance/tags). For example,
+
+```javascript
 import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-variance@v0.2.0-deno/mod.js';
 ```
 
@@ -127,7 +132,7 @@ v = variance( 3.0, 3.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-variance@v0.2.0-deno/mod.js';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-variance@deno/mod.js';
 
 var a;
 var b;
