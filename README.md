@@ -67,7 +67,7 @@ The [variance][variance] for an [arcsine][arcsine-distribution] random variable 
 ## Usage
 
 ```javascript
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-variance@esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-variance@v0.2.2-esm/index.mjs';
 ```
 
 #### variance( a, b )
@@ -132,7 +132,7 @@ v = variance( 3.0, 3.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-variance@esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-variance@v0.2.2-esm/index.mjs';
 
 var a;
 var b;
