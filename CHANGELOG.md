@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-17)
+
+<section class="features">
+
+### Features
+
+-   [`3688b08`](https://github.com/stdlib-js/stdlib/commit/3688b0821bbfc1e99f33b859a4e090c6b75dc3fa) - add C implementation for `stats/base/dists/arcsine/variance` [(#3968)](https://github.com/stdlib-js/stdlib/pull/3968)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3410](https://github.com/stdlib-js/stdlib/issues/3410)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`3688b08`](https://github.com/stdlib-js/stdlib/commit/3688b0821bbfc1e99f33b859a4e090c6b75dc3fa) - **feat:** add C implementation for `stats/base/dists/arcsine/variance` [(#3968)](https://github.com/stdlib-js/stdlib/pull/3968) _(by Aayush Khanna, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Aayush Khanna
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
