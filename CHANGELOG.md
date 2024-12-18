@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-17)
+## Unreleased (2024-12-18)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`8bf8285`](https://github.com/stdlib-js/stdlib/commit/8bf8285aba0ecbd00ae145c4c5c098cd28135814) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`3688b08`](https://github.com/stdlib-js/stdlib/commit/3688b0821bbfc1e99f33b859a4e090c6b75dc3fa) - **feat:** add C implementation for `stats/base/dists/arcsine/variance` [(#3968)](https://github.com/stdlib-js/stdlib/pull/3968) _(by Aayush Khanna, Philipp Burckhardt)_
 
 </details>
