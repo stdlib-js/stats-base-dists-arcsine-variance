@@ -67,7 +67,7 @@ The [variance][variance] for an [arcsine][arcsine-distribution] random variable 
 ## Usage
 
 ```javascript
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-variance@deno/mod.js';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-variance@v0.2.3-deno/mod.js';
 ```
 
 #### variance( a, b )
@@ -128,7 +128,7 @@ v = variance( 3.0, 3.0 );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-variance@deno/mod.js';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-variance@v0.2.3-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
